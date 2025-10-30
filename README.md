@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Saini</h1>
-<h3 align="center">Electronics & Communication Engineer | Embedded Systems & Hardware Design Enthusiast</h3>
+<h3 align="center"> Embedded Systems & Hardware Design Engineer </h3>
 
 <p align="center">
   <a href="mailto:saini.harsh.in@gmail.com">
