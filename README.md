@@ -25,17 +25,40 @@
 
 ### 🧰 Languages and Tools:
 <p align="left">
+  <!-- Arduino -->
   <img src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino"/>
-  <img src="https://img.icons8.com/color/48/000000/esp32.png" title="ESP32"/>
+  
+  <!-- ESP32 (custom image link) -->
+  <img src="https://raw.githubusercontent.com/HarshSainiAssets/icons/main/esp32-icon.svg" width="48" height="48" title="ESP32"/>
+  
+  <!-- Python -->
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+  
+  <!-- C -->
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C Language"/>
+  
+  <!-- C++ -->
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/altium-designer.png" title="Altium Designer / PCB"/>
+  
+  <!-- Altium -->
+  <img src="https://raw.githubusercontent.com/HarshSainiAssets/icons/main/altium-logo.svg" width="48" height="48" title="Altium Designer"/>
+  
+  <!-- KiCad -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/KiCad-Logo.svg" width="48" height="48" title="KiCad"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/OrCAD_Logo.png" width="48" height="48" title="OrCAD"/>
+  
+  <!-- OrCAD -->
+  <img src="https://raw.githubusercontent.com/HarshSainiAssets/icons/main/orcad-logo.svg" width="48" height="48" title="OrCAD"/>
+  
+  <!-- Microchip -->
   <img src="https://img.icons8.com/color/48/000000/microchip.png" title="Microcontrollers"/>
+  
+  <!-- GitHub -->
   <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub"/>
+  
+  <!-- VS Code -->
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
+  
+  <!-- Photoshop -->
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" title="Photoshop"/>
 </p>
 
