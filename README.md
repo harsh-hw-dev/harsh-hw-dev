@@ -19,7 +19,7 @@
 - 🎓 Electronics & Communication Engineer  
 - ⚙️ Interested in Embedded Systems, PCB Design, and Hardware Development  
 - 🔭 Currently learning **ESP32**, **Analog Design**, and **IoT Systems**  
-- 💬 Ask me about **Altium**, **KiCad**, **OrCAD**, and **Embedded C/Python**
+- 💬 Ask me about **Altium**, **KiCad**, **OrCAD**, **C**, **C++**, and **Embedded Python**
 
 ---
 
@@ -33,6 +33,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" alt="OrCAD" width="100" height="80"/>
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=100&id=ktVnxqHjfcxV&format=png&color=000000" alt="ESP32" width="80" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Programming" width="80" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.vectorstock.com/i/750p/93/89/c-programming-logo-vector-30039389.avif" alt="C++ Programming" width="80" height="80"/>
 </p>
 
 ---
