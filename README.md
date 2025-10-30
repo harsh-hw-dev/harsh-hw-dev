@@ -1,84 +1,53 @@
-<h1 align="center">Harsh Saini</h1>
+<h1 align="center">Hi 👋, I'm Harsh Saini</h1>
+<h3 align="center">Electronics & Communication Engineer | Embedded Systems & Hardware Design Enthusiast</h3>
 
 <p align="center">
-  <b>Embedded Systems | IoT | Hardware Design | PCB Design | Python</b>
-</p>
-
----
-
-### 📫 How to reach me
-📧 [saini.harsh.in@gmail.com](mailto:saini.harsh.in@gmail.com)
-
----
-
-### 🤝 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/sainiharsh-in/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  <a href="mailto:saini.harsh.in@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/harsh-hw-dev" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
+  <a href="https://www.linkedin.com/in/sainiharsh-in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/harsh-hw-dev">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools:
-<p align="left">
-  <!-- Arduino -->
-  <img src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino"/>
-  
-  <!-- ESP32 (custom image link) -->
-  <img src="https://raw.githubusercontent.com/HarshSainiAssets/icons/main/esp32-icon.svg" width="48" height="48" title="ESP32"/>
-  
-  <!-- Python -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-  
-  <!-- C -->
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C Language"/>
-  
-  <!-- C++ -->
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-  
-  <!-- Altium -->
-  <img src="https://raw.githubusercontent.com/HarshSainiAssets/icons/main/altium-logo.svg" width="48" height="48" title="Altium Designer"/>
-  
-  <!-- KiCad -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/KiCad-Logo.svg" width="48" height="48" title="KiCad"/>
-  
-  <!-- OrCAD -->
-  <img src="https://raw.githubusercontent.com/HarshSainiAssets/icons/main/orcad-logo.svg" width="48" height="48" title="OrCAD"/>
-  
-  <!-- Microchip -->
-  <img src="https://img.icons8.com/color/48/000000/microchip.png" title="Microcontrollers"/>
-  
-  <!-- GitHub -->
-  <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub"/>
-  
-  <!-- VS Code -->
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-  
-  <!-- Photoshop -->
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" title="Photoshop"/>
-</p>
+### 💡 About Me
+- 🎓 Electronics & Communication Engineer  
+- ⚙️ Interested in Embedded Systems, PCB Design, and Hardware Development  
+- 🔭 Currently learning **ESP32**, **Analog Design**, and **IoT Systems**  
+- 💬 Ask me about **Altium**, **KiCad**, **OrCAD**, and **Embedded C/Python**
 
 ---
 
-### ⚡ About Me
-🎓 Electronics & Communication Engineer  
-🔌 Passionate about Embedded Systems, IoT, and Hardware Design  
-🧠 Exploring Analog Design, PLC Programming, and Automation Systems  
-🚀 Goal: To build smart & efficient hardware solutions integrating software and electronics  
+### 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" alt="Altium Designer" width="80" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="KiCad" width="80" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" alt="OrCAD" width="100" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=ktVnxqHjfcxV&format=png&color=000000" alt="ESP32" width="80" height="80"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-hw-dev&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-hw-dev&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-hw-dev&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-hw-dev&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
-⭐ **_“Engineering is not just circuits — it’s creativity in motion.”_**
+### 🚀 Let's Connect
+<p align="center">
+  📧 saini.harsh.in@gmail.com • 🌐 <a href="https://www.linkedin.com/in/sainiharsh-in/">LinkedIn</a> • 💻 <a href="https://github.com/harsh-hw-dev">GitHub</a>
+</p>
