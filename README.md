@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#4C9AFF;">Harsh Saini</span></h1>
 <h3 align="center">🔌 Embedded Systems & Hardware Design Engineer</h3>
 
@@ -10,7 +9,6 @@
 
 ---
 
-<!-- ABOUT -->
 ### 🧠 About Me  
 
 > Passionate about building **reliable and efficient hardware systems** — from PCB design to embedded coding.  
@@ -24,26 +22,24 @@
 
 ---
 
-<!-- TOOLS -->
 ### 🧰 Tools & Technologies  
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" alt="Altium Designer" width="70" height="70"/>
+  <img src="https://cdn.prod.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" alt="Altium Designer" width="70"/>
   &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="KiCad" width="70" height="70"/>
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="KiCad" width="70"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" alt="OrCAD" width="100" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" alt="OrCAD" width="100"/>
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=ktVnxqHjfcxV&format=png&color=000000" alt="ESP32" width="70" height="70"/>
+  <img src="https://img.icons8.com/?size=100&id=ktVnxqHjfcxV&format=png" alt="ESP32" width="70"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="70"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.vectorstock.com/i/750p/93/89/c-programming-logo-vector-30039389.avif" alt="C++" width="70" height="70"/>
+  <img src="https://cdn.vectorstock.com/i/750p/93/89/c-programming-logo-vector-30039389.avif" alt="C++" width="70"/>
 </p>
 
 ---
 
-<!-- STATS -->
 ### ⚡ GitHub Analytics  
 
 <p align="center">
@@ -54,7 +50,6 @@
 
 ---
 
-<!-- LANGUAGES -->
 ### 📊 Most Used Languages  
 
 <p align="center">
@@ -63,19 +58,15 @@
 
 ---
 
-<!-- PROJECTS -->
 ### 🧩 Highlight Projects  
 
-<p align="left">
-  • ⚡ **48V 16-Channel PWM Controller Board** – ESP32-S3-based lighting control with current monitoring  
-  • 🔋 **12V to 5V & 3.3V Power Converter** – Dual-output linear regulator with 7805 & AZ1117 ICs  
-  • 🌐 **IoT Sensor Node** – Wi-Fi-enabled data acquisition system using ESP32  
-  • 🧠 **Analog Signal Conditioning Board** – Precision amplifier and filter network for sensor interfacing  
-</p>
+- ⚡ **48V 16-Channel PWM Controller Board** – ESP32-S3-based lighting control with current monitoring  
+- 🔋 **12V to 5V & 3.3V Power Converter** – Dual-output linear regulator using 7805 & AZ1117  
+- 🌐 **IoT Sensor Node** – Wi-Fi-enabled sensor node using ESP32  
+- 🧠 **Analog Signal Conditioning Board** – Precision amplifier + filter system for sensors  
 
 ---
 
-<!-- CONNECT -->
 ### 🤝 Connect With Me  
 
 <p align="center">
@@ -89,6 +80,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Embedded+Engineer+in+Progress...;Always+learning+something+new+🚀;Turning+ideas+into+hardware+✨"/>
+  <b>Embedded Engineer in Progress • Always Learning • Turning Ideas Into Hardware</b>
 </p>
-
