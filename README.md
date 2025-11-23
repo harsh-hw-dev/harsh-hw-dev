@@ -80,5 +80,5 @@
 ---
 
 <p align="center">
-  <b>Embedded Engineer in Progress • Always Learning • Turning Ideas Into Hardware</b>
+  <b>Embedded Engineer • Always Learning • Turning Ideas Into Hardware</b>
 </p>
