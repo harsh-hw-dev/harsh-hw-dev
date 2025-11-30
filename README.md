@@ -67,7 +67,7 @@
 
 ---
 
-### 🤝 Connect With Me  
+###  Connect With Me  
 
 <p align="center">
   <a href="mailto:saini.harsh.in@gmail.com"><img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/></a>
