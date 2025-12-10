@@ -13,6 +13,11 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Visitor counter -->
+  <img src="https://komarev.com/ghpvc/?username=harsh-hw-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🧠 About Me  
@@ -31,19 +36,19 @@
 ## 🧰 Tools, Languages & Platforms  
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" width="70"/>
+  <img src="https://cdn.prod.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" width="70" alt="Altium Designer"/>
   &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" width="70"/>
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" width="70" alt="KiCad"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" width="100" alt="OrCAD"/>
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=ktVnxqHjfcxV&format=png" width="70"/>
+  <img src="https://img.icons8.com/?size=100&id=ktVnxqHjfcxV&format=png" width="70" alt="ESP32"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="70" alt="C"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.vectorstock.com/i/750p/93/89/c-programming-logo-vector-30039389.avif" width="70"/>
+  <img src="https://cdn.vectorstock.com/i/750p/93/89/c-programming-logo-vector-30039389.avif" width="70" alt="C++"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70" alt="Python"/>
 </p>
 
 ---
@@ -110,20 +115,36 @@
 
 ---
 
-## 📊 GitHub Performance (FIXED ✅)
+## 📊 GitHub Performance  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-hw-dev&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://img.shields.io/github/followers/harsh-hw-dev?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=harsh-hw-dev&theme=tokyonight" height="160"/>
+  <img src="https://img.shields.io/github/stars/harsh-hw-dev?affiliations=OWNER&label=Repo%20Stars&style=for-the-badge" alt="GitHub Stars"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/repos/harsh-hw-dev?label=Public%20Repos&style=for-the-badge" alt="GitHub Repos"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages (FIXED ✅)
+## 📈 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-hw-dev&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Embedded%20C-009688?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="Embedded C"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
