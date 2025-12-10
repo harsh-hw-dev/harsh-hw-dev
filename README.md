@@ -17,16 +17,14 @@
 
 ## 🧠 About Me  
 
-⚙️ Hardware Design Engineer specializing in **power electronics, embedded systems, and multi-layer PCB design**. I design **real production-ready hardware** — not just demos. My work focuses on:
+⚙️ Hardware Design Engineer specializing in **power electronics, embedded systems, and multi-layer PCB design**. I build **production-grade hardware**, not just prototypes.
 
-- ⚡ High-efficiency **SMPS, BMS & EVSE hardware**
-- 📐 **Signal-integrity & EMI-aware PCB layout**
-- 🔌 **Power + Control co-design**
-- 🧪 Hardware validation, debugging & failure analysis
-
-🎓 **B.Tech in Electronics & Communication Engineering**  
-💼 **1+ year industry experience in hardware design**  
-🎯 **Goal:** Become a world-class **Power & High-Speed Hardware Engineer**
+- 🎓 **B.Tech – Electronics & Communication Engineering**
+- 💼 **1+ year hands-on industry experience**
+- ⚡ Core focus: **SMPS, EVSE, BMS, Embedded Control**
+- 📐 Strong in **signal integrity, EMI-safe PCB layout**
+- 🧠 Firmware + Hardware Co-Design (ESP32, STM32)
+- 🎯 Goal: Become a **world-class Power & High-Speed Hardware Engineer**
 
 ---
 
@@ -44,86 +42,88 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="70"/>
   &nbsp;&nbsp;
   <img src="https://cdn.vectorstock.com/i/750p/93/89/c-programming-logo-vector-30039389.avif" width="70"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70"/>
 </p>
 
 ---
 
 ## 🏗️ Core Technical Strength  
 
-✔ Multi-layer PCB: **1L to 6L boards**  
+✔ PCB Design: **1L to 6L boards**  
 ✔ Power Electronics: **Buck, Boost, Flyback, BMS, EVSE**  
 ✔ Embedded Systems: **ESP32, STM32, UART, SPI, I2C, CAN**  
-✔ Protection: **OVP, OCP, SCP, reverse polarity, surge**  
-✔ EMI/ESD: **TVS, CM chokes, Y-caps, ground stitching**  
-✔ Manufacturing: **Gerbers, Pick & Place, BOM, DFM/DFA**  
+✔ Protection: **OVP, UVLO, OCP, SCP, Reverse Polarity**  
+✔ EMI/ESD: **TVS, CM Chokes, Y-Caps, Stitching Vias**  
+✔ Manufacturing: **Gerbers, BOM, Pick & Place, DFM/DFA**  
 
 ---
 
 ## 🚀 Flagship Engineering Projects  
 
 ### ⚡ 7.4 kW Single-Phase EVSE Power Board  
-- AC Input: 230V | Power: 7.4 kW  
-- Isolated SMPS + Control + Protection  
-- EMI filter + Surge + Relay + Contactor drive  
-- Designed for **AIS-138 & IEC safety concepts**
+- 230VAC → High-power AC load control  
+- Isolated SMPS + Protection + Relay/Contactor Drive  
+- EMI Filter + Surge + Grounding Strategy  
+- Designed for **AIS-138 / IEC Safety Concepts**
 
 ---
 
 ### ⚡ 48V 16-Channel PWM Power Controller  
 - ESP32-S3 based real-time PWM engine  
-- Current sense + MOSFET gate drive  
-- Expansion-ready industrial connector system  
-- Applied grounding + return path control for EMI reduction
+- MOSFET Gate Drive + Current Monitoring  
+- Industrial connector system  
+- EMI-safe power + control routing
 
 ---
 
 ### 🔋 Multi-Output Power Converter (12V → 5V & 3.3V)  
-- Linear & switching regulation stage  
+- Linear + Switching regulation  
 - Load transient tested  
-- Noise-sensitive low-power rail optimization
+- Noise-optimized analog rail
 
 ---
 
 ### 🌐 ESP32 IoT Sensor Node  
-- Wi-Fi telemetry + OTA ready  
-- Low-power deep sleep optimization  
-- Sensor front-end filtering & level shifting
+- Wi-Fi telemetry + OTA firmware updates  
+- Deep-sleep low-power optimization  
+- Sensor front-end filtering
 
 ---
 
 ### 🧠 Analog Signal Conditioning Board  
-- Precision op-amp design  
-- Active filters for noise rejection  
-- ADC-ready output scaling and buffering
+- Precision op-amp amplification  
+- Active low-pass & band-pass filtering  
+- ADC-ready scaling and buffering
 
 ---
 
-## 🧪 What I Actually Engineer (Not Just Assemble)
+## 🧪 What I Actually Engineer  
 
 ✔ Power stage calculations  
 ✔ Inductor & MOSFET stress analysis  
 ✔ Copper thickness & current density  
-✔ Return path & loop minimization  
-✔ Crosstalk & impedance control  
+✔ Return path & loop area minimization  
+✔ Impedance & crosstalk control  
 ✔ Ground partitioning & stitching  
 ✔ EMI failure debugging & fixes  
 
 ---
 
-## 📊 GitHub Performance  
+## 📊 GitHub Performance (FIXED ✅)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-hw-dev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-hw-dev&show_icons=true&theme=tokyonight" height="160"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-hw-dev&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=harsh-hw-dev&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages  
+## 📈 Most Used Languages (FIXED ✅)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-hw-dev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-hw-dev&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -147,5 +147,5 @@
 ---
 
 <p align="center">
-  <b>Power Hardware • Embedded Control • EMI-Safe Design • Production-Ready Mindset</b>
+  <b>Power Hardware • Embedded Control • EMI-Safe PCB Design • Production-Ready Mindset</b>
 </p>
