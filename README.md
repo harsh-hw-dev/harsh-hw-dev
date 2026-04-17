@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4C9AFF;">Harsh Saini</span></h1>
-<h3 align="center">⚡ Embedded Systems • Power Electronics • High-Speed PCB Design Engineer</h3>
+<h3 align="center">⚡ Hardware Design Engineer • Power Electronics • Embedded Systems</h3>
 
 <p align="center">
   <a href="mailto:saini.harsh.in@gmail.com">
@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  <!-- Visitor counter -->
   <img src="https://komarev.com/ghpvc/?username=harsh-hw-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -22,33 +21,31 @@
 
 ## 🧠 About Me  
 
-⚙️ Hardware Design Engineer specializing in **power electronics, embedded systems, and multi-layer PCB design**. I build **production-grade hardware**, not just prototypes.
+⚙️ Hardware Design Engineer with hands-on experience in **power electronics, embedded systems, and PCB design**.
 
 - 🎓 **B.Tech – Electronics & Communication Engineering**
-- 💼 **1+ year hands-on industry experience**
-- ⚡ Core focus: **SMPS, EVSE, BMS, Embedded Control**
-- 📐 Strong in **signal integrity, EMI-safe PCB layout**
-- 🧠 Firmware + Hardware Co-Design (ESP32, STM32)
-- 🎯 Goal: Become a **world-class Power & High-Speed Hardware Engineer**
+- 💼 Currently at **Winet Infratel (R&D)**
+- ⚡ Working on **3.3kW & 7.4kW EV Chargers (EVSE)**
+- 🔌 Core focus: **SMPS, EVSE, Embedded Control**
+- 🛠 Experience in **schematic design, PCB layout, debugging & testing**
+- 🎯 Goal: Become a **high-level Power Electronics & Hardware Design Engineer**
 
 ---
 
 ## 🧰 Tools, Languages & Platforms  
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" width="70" alt="Altium Designer"/>
+  <img src="https://cdn.prod.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" width="70"/>
   &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" width="70" alt="KiCad"/>
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" width="70"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" width="100" alt="OrCAD"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OrCAD_Logo.svg" width="100"/>
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=ktVnxqHjfcxV&format=png" width="70" alt="ESP32"/>
+  <img src="https://img.icons8.com/?size=100&id=ktVnxqHjfcxV&format=png" width="70"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="70" alt="C"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="70"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.vectorstock.com/i/750p/93/89/c-programming-logo-vector-30039389.avif" width="70" alt="C++"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70" alt="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70"/>
 </p>
 
 ---
@@ -56,73 +53,68 @@
 ## 🏗️ Core Technical Strength  
 
 ✔ PCB Design: **1L to 6L boards**  
-✔ Power Electronics: **Buck, Boost, Flyback, BMS, EVSE**  
-✔ Embedded Systems: **ESP32, STM32, UART, SPI, I2C, CAN**  
-✔ Protection: **OVP, UVLO, OCP, SCP, Reverse Polarity**  
-✔ EMI/ESD: **TVS, CM Chokes, Y-Caps, Stitching Vias**  
-✔ Manufacturing: **Gerbers, BOM, Pick & Place, DFM/DFA**  
+✔ Power Electronics: **Buck, Flyback, BMS, EVSE**  
+✔ Embedded Systems: **ESP32, UART, SPI, I2C**  
+✔ Protection: **OVP, UVP, OCP basics**  
+✔ Tools: **Altium, KiCad, LTspice, MATLAB**  
+✔ Manufacturing: **Gerbers, BOM, PCB prototyping**  
 
 ---
 
 ## 🚀 Flagship Engineering Projects  
 
-### ⚡ 7.4 kW Single-Phase EVSE Power Board  
-- 230VAC → High-power AC load control  
-- Isolated SMPS + Protection + Relay/Contactor Drive  
-- EMI Filter + Surge + Grounding Strategy  
-- Designed for **AIS-138 / IEC Safety Concepts**
+### ⚡ 7.4 kW EVSE Charger (Industry Work)  
+- Designed **Type-2 EV charger system**  
+- Worked on **control pilot + protection circuits**  
+- Applied **IEC 61851 / IEC 62196 concepts**  
+- Developed **ESP32-based control PCB**
 
 ---
 
-### ⚡ 48V 16-Channel PWM Power Controller  
-- ESP32-S3 based real-time PWM engine  
-- MOSFET Gate Drive + Current Monitoring  
-- Industrial connector system  
-- EMI-safe power + control routing
+### ⚡ 120W Synchronous Buck Converter (LM5116)  
+- High-efficiency DC-DC design  
+- Feedback loop compensation  
+- PCB optimized for reduced noise  
 
 ---
 
-### 🔋 Multi-Output Power Converter (12V → 5V & 3.3V)  
-- Linear + Switching regulation  
-- Load transient tested  
-- Noise-optimized analog rail
+### ⚡ 60W Flyback SMPS  
+- Isolated power supply design  
+- Switching + feedback control  
 
 ---
 
-### 🌐 ESP32 IoT Sensor Node  
-- Wi-Fi telemetry + OTA firmware updates  
-- Deep-sleep low-power optimization  
-- Sensor front-end filtering
+### 🔋 2S Battery Management System  
+- Implemented **OVP, UVP, OCP protections**  
+- MOSFET-based switching design  
 
 ---
 
-### 🧠 Analog Signal Conditioning Board  
-- Precision op-amp amplification  
-- Active low-pass & band-pass filtering  
-- ADC-ready scaling and buffering
+### 🌐 ESP32 HRV Monitoring Device  
+- MAX30102 sensor integration  
+- Real-time data acquisition  
+- PCB design + debugging  
 
 ---
 
 ## 🧪 What I Actually Engineer  
 
-✔ Power stage calculations  
-✔ Inductor & MOSFET stress analysis  
-✔ Copper thickness & current density  
-✔ Return path & loop area minimization  
-✔ Impedance & crosstalk control  
-✔ Ground partitioning & stitching  
-✔ EMI failure debugging & fixes  
+✔ SMPS Design (Buck / Flyback)  
+✔ PCB Layout & Routing  
+✔ Hardware Debugging  
+✔ Embedded Control Integration  
+✔ Basic EMI-aware design practices  
 
 ---
 
 ## 📊 GitHub Performance  
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/harsh-hw-dev?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/harsh-hw-dev?label=Followers&style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/harsh-hw-dev?affiliations=OWNER&label=Repo%20Stars&style=for-the-badge" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/harsh-hw-dev?affiliations=OWNER&label=Repo%20Stars&style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/github/repos/harsh-hw-dev?label=Public%20Repos&style=for-the-badge" alt="GitHub Repos"/>
+  <img src="https://img.shields.io/github/repos/harsh-hw-dev?label=Public%20Repos&style=for-the-badge"/>
 </p>
 
 ---
@@ -130,13 +122,11 @@
 ## 📈 Most Used Languages  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Embedded%20C-009688?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="Embedded C"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-009688?style=for-the-badge"/>
 </p>
 
 ---
@@ -144,7 +134,7 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -168,5 +158,5 @@
 ---
 
 <p align="center">
-  <b>Power Hardware • Embedded Control • EMI-Safe PCB Design • Production-Ready Mindset</b>
+  <b>Power Electronics • Embedded Systems • PCB Design</b>
 </p>
