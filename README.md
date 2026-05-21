@@ -1,54 +1,54 @@
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                        HERO — WAVE BANNER                          -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                     HERO — ANIMATED BANNER                           -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060a10,30:0d1117,60:0a192f,100:060a10&height=220&section=header&text=HARSH%20SAINI&fontSize=58&fontColor=58a6ff&fontAlignY=42&fontAlign=50&desc=Hardware%20Design%20Engineer%20%20%7C%20%20Signal%20Integrity%20%20%7C%20%20Power%20Integrity%20%20%7C%20%20High-Speed%20PCB&descSize=13.5&descColor=6e7f9a&descAlignY=64&descAlign=50&animation=fadeIn&stroke=1a2744&strokeWidth=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03060d,25:060e1a,50:0a1628,75:071220,100:03060d&height=240&section=header&text=HARSH%20SAINI&fontSize=62&fontColor=00d4ff&fontAlignY=40&fontAlign=50&desc=Hardware%20Design%20Engineer%20%20·%20%20Signal%20Integrity%20%20·%20%20Power%20Integrity%20%20·%20%20High-Speed%20PCB&descSize=13&descColor=4a7fa5&descAlignY=62&descAlign=50&animation=fadeIn"/>
 
 </div>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                        TYPING ANIMATION                            -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                      TYPING ANIMATION                                -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=32&lines=Designing+from+power+stages+to+high-speed+digital+interfaces;Signal+Integrity+%7C+Power+Integrity+%7C+Controlled+Impedance+Routing;PDN+Optimization+%7C+Return+Path+Analysis+%7C+EMI%2FEMC+Engineering;DDR+%7C+PCIe+%7C+Ethernet+%7C+Differential+Pair+Routing;EVSE+Systems+%7C+SMPS+Design+%7C+Multi-Layer+PCB+Architecture" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=16&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&height=34&lines=Hardware+Design+Engineer+%7C+Power+Electronics;Future+High-Speed+Hardware+Systems+Engineer;Signal+Integrity+%26+Power+Integrity+Learning+Journey;DDR+%7C+PCIe+%7C+Ethernet+%7C+Controlled+Impedance+Design;PDN+Optimization+%7C+Return+Path+Analysis+%7C+EMI%2FEMC;Building+Reliable+Hardware+from+Physics+Up" alt="Typing SVG"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                     SOCIAL LINKS + VISITOR                         -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                   SOCIAL LINKS + VISITOR COUNTER                     -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <a href="mailto:saini.harsh.in@gmail.com">
-  <img src="https://img.shields.io/badge/Email-saini.harsh.in%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22&color=21262d"/>
+  <img src="https://img.shields.io/badge/─%20EMAIL-saini.harsh.in%40gmail.com-03060d?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0d1f33&color=0a1628"/>
 </a>
 &ensp;
 <a href="https://www.linkedin.com/in/sainiharsh-in/">
-  <img src="https://img.shields.io/badge/LinkedIn-sainiharsh--in-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22&color=21262d"/>
+  <img src="https://img.shields.io/badge/─%20LINKEDIN-sainiharsh--in-03060d?style=flat-square&logo=linkedin&logoColor=00d4ff&labelColor=0d1f33&color=0a1628"/>
 </a>
 &ensp;
 <a href="https://github.com/harsh-hw-dev">
-  <img src="https://img.shields.io/badge/GitHub-harsh--hw--dev-0d1117?style=flat-square&logo=github&logoColor=f0f6fc&labelColor=161b22&color=21262d"/>
+  <img src="https://img.shields.io/badge/─%20GITHUB-harsh--hw--dev-03060d?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=0d1f33&color=0a1628"/>
 </a>
 &ensp;
-<img src="https://komarev.com/ghpvc/?username=harsh-hw-dev&style=flat-square&color=1a3a5c&labelColor=161b22&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=harsh-hw-dev&style=flat-square&color=0a1628&labelColor=0d1f33&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                       ANIMATED DIVIDER                             -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED DIVIDER                                  -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -56,34 +56,38 @@
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                    PROFESSIONAL IDENTITY                            -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  ENGINEERING IDENTITY CARD                           -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   Hardware Design Engineer building from power conversion to                │
-│   high-speed digital interfaces — where physics defines every constraint.   │
-│                                                                              │
-│   Current  ▸  Winet Infratel (R&D) · 3.3 kW & 7.4 kW EVSE Systems         │
-│   Academic ▸  B.Tech — Electronics & Communication Engineering              │
-│   Focus    ▸  Signal Integrity · Power Integrity · High-Speed PCB           │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│   ◈  ENGINEER          Harsh Saini                                              │
+│   ◈  DISCIPLINE        Hardware Design · Power Electronics · PCB Engineering   │
+│   ◈  CURRENT ROLE      Hardware Design Engineer — Winet Infratel (R&D)         │
+│   ◈  ACADEMIC          B.Tech — Electronics & Communication Engineering         │
+│                                                                                 │
+│   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                                 │
+│   PRESENT  ▸  EVSE Systems · SMPS · Multi-layer PCB · Embedded Control        │
+│   VECTOR   ▸  Signal Integrity · Power Integrity · High-Speed Digital          │
+│   FRONTIER ▸  DDR · PCIe · Ethernet · PDN · Controlled Impedance              │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                     ENGINEERING DOMAINS                             -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                    ENGINEERING DOMAINS                               -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;`// 01` &nbsp; Engineering Domains
+## `// 01` &nbsp; Engineering Domains
 
 <br/>
 
@@ -95,19 +99,19 @@
 
 ```yaml
 Topologies:
-  - Buck (Synchronous)
+  - Synchronous Buck
   - Flyback (Isolated)
   - SMPS Architecture
 
-EVSE:
-  - IEC 61851 / IEC 62196
-  - Control Pilot Circuit
-  - SAE J1772 Compliance
+EVSE Systems:
+  - IEC 61851 / 62196
+  - Control Pilot
+  - SAE J1772
 
 Protection:
   - OVP / UVP / OCP
   - Gate Drive Design
-  - Thermal Management
+  - Thermal Analysis
 ```
 
 </td>
@@ -118,18 +122,18 @@ Protection:
 ```yaml
 Layout:
   - 1L to 6L Boards
-  - Stackup Definition
+  - Stackup Planning
   - Impedance Control
   - Differential Pairs
 
 Manufacturing:
-  - Gerber Generation
-  - BOM / CPL Files
-  - DFM / DFT Rules
-  - PCB Prototyping
+  - Gerber / NC Drill
+  - BOM / CPL
+  - DFM / DFT
+  - Assembly Support
 
 Practice:
-  - EMI-Aware Routing
+  - EMI-Aware Layout
   - Via Stitching
   - Thermal Reliefs
 ```
@@ -140,9 +144,9 @@ Practice:
 **`EMBEDDED HARDWARE`**
 
 ```yaml
-Microcontrollers:
+Controllers:
   - ESP32 (Wi-Fi/BT)
-  - STM32 (learning)
+  - ARM Cortex (basic)
 
 Interfaces:
   - UART / SPI / I2C
@@ -153,32 +157,33 @@ Firmware:
   - Embedded C
   - Peripheral Drivers
   - State Machines
+  - Interrupt Logic
 ```
 
 </td>
 <td width="25%" valign="top">
 
-**`SI / PI — FRONTIER`**
+**`SI / PI  ─  FRONTIER`**
 
 ```yaml
 Signal Integrity:
   - Transmission Lines
-  - Impedance Control
-  - Return Path Analysis
+  - Return Path Design
   - Crosstalk Control
-  - Diff Pair Tuning
+  - Diff Pair Routing
   - Length Matching
+  - Termination
 
 Power Integrity:
-  - PDN Optimization
+  - PDN Architecture
   - Target Impedance
-  - Decoupling Strategy
-  - Bypass Placement
+  - Decoupling Hierarchy
+  - SSN Mitigation
 
 High-Speed:
-  - DDR Concepts
+  - DDR Interfaces
   - PCIe Fundamentals
-  - Ethernet Interfaces
+  - Ethernet Layout
 ```
 
 </td>
@@ -193,17 +198,17 @@ High-Speed:
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                        TECHNICAL STACK                              -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                      TECHNICAL STACK                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;`// 02` &nbsp; Technical Stack
+## `// 02` &nbsp; Technical Stack
 
 <br/>
 
 <div align="center">
 
-**PCB Design Platforms**
+**─── PCB Design Platforms ───**
 
 <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
 &nbsp;
@@ -213,17 +218,17 @@ High-Speed:
 
 <br/><br/>
 
-**Simulation & Analysis**
+**─── Simulation & Analysis ───**
 
-<img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LTspice-7B0000?style=for-the-badge&logoColor=white&label=LTspice&labelColor=3d0000"/>
 &nbsp;
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/HyperLynx_(Studying)-1e3a5f?style=for-the-badge&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/HyperLynx-00d4ff?style=for-the-badge&logoColor=03060d&labelColor=003344&color=003344&label=HyperLynx+▷+Studying"/>
 
 <br/><br/>
 
-**Embedded & Programming**
+**─── Embedded & Programming ───**
 
 <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 &nbsp;
@@ -235,29 +240,29 @@ High-Speed:
 
 <br/><br/>
 
-**Interfaces & Protocols**
+**─── Interfaces & Protocols ───**
 
-<img src="https://img.shields.io/badge/UART-21262d?style=for-the-badge&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/UART-0d1f33?style=for-the-badge&labelColor=0d1f33"/>
 &nbsp;
-<img src="https://img.shields.io/badge/SPI-21262d?style=for-the-badge&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/SPI-0d1f33?style=for-the-badge&labelColor=0d1f33"/>
 &nbsp;
-<img src="https://img.shields.io/badge/I2C-21262d?style=for-the-badge&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/I2C-0d1f33?style=for-the-badge&labelColor=0d1f33"/>
 &nbsp;
-<img src="https://img.shields.io/badge/CAN_Bus-21262d?style=for-the-badge&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/CAN_Bus-0d1f33?style=for-the-badge&labelColor=0d1f33"/>
 &nbsp;
-<img src="https://img.shields.io/badge/USB_FS-21262d?style=for-the-badge&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/USB_FS-0d1f33?style=for-the-badge&labelColor=0d1f33"/>
 
 <br/><br/>
 
-**High-Speed — Active Study**
+**─── High-Speed Systems — Active Study ───**
 
-<img src="https://img.shields.io/badge/▷_DDR_Interfaces-0d2137?style=for-the-badge&labelColor=0d2137&color=1a3a5c"/>
+<img src="https://img.shields.io/badge/▷%20DDR%20Interfaces-00d4ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
 &nbsp;
-<img src="https://img.shields.io/badge/▷_PCIe_Fundamentals-0d2137?style=for-the-badge&labelColor=0d2137&color=1a3a5c"/>
+<img src="https://img.shields.io/badge/▷%20PCIe%20Fundamentals-00d4ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
 &nbsp;
-<img src="https://img.shields.io/badge/▷_Ethernet_Layout-0d2137?style=for-the-badge&labelColor=0d2137&color=1a3a5c"/>
+<img src="https://img.shields.io/badge/▷%20Ethernet%20Layout-00d4ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
 &nbsp;
-<img src="https://img.shields.io/badge/▷_SI_%2F_PI_Analysis-0d2137?style=for-the-badge&labelColor=0d2137&color=1a3a5c"/>
+<img src="https://img.shields.io/badge/▷%20SI%20%2F%20PI%20Analysis-00d4ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
 
 </div>
 
@@ -269,11 +274,11 @@ High-Speed:
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                   CORE ENGINEERING COMPETENCIES                     -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--               ENGINEERING COMPETENCIES DASHBOARD                     -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;`// 03` &nbsp; Core Engineering Competencies
+## `// 03` &nbsp; Engineering Competencies
 
 <br/>
 
@@ -283,42 +288,42 @@ High-Speed:
 
 **Power Electronics**
 
-| Competency | Level |
+| Competency | Proficiency |
 |---|---|
-| Buck / Synchronous Buck | ██████████ Production |
-| Flyback SMPS Design | █████████░ Strong |
-| EVSE / IEC 61851 | █████████░ Strong |
-| Loop Compensation | ████████░░ Working |
-| Gate Drive Design | ████████░░ Working |
-| Thermal Analysis | ███████░░░ Growing |
+| Synchronous Buck Design | `██████████` Production |
+| Flyback SMPS | `█████████░` Strong |
+| EVSE — IEC 61851 | `█████████░` Strong |
+| Loop Compensation | `████████░░` Solid |
+| Gate Drive Design | `████████░░` Solid |
+| Thermal Management | `███████░░░` Growing |
 
 </td>
 <td width="33%" valign="top">
 
 **PCB Engineering**
 
-| Competency | Level |
+| Competency | Proficiency |
 |---|---|
-| Multi-layer Layout (1–6L) | ██████████ Production |
-| DFM / Gerber Output | █████████░ Strong |
-| EMI-Aware Routing | ████████░░ Working |
-| Impedance Control | ███████░░░ Growing |
-| Differential Pair Routing | ███████░░░ Growing |
-| SI / PI Application | █████░░░░░ Studying |
+| 1L–6L Board Layout | `██████████` Production |
+| Gerber / BOM Release | `█████████░` Strong |
+| DFM / DFT Practice | `████████░░` Solid |
+| EMI-Aware Routing | `████████░░` Solid |
+| Impedance Control | `██████░░░░` Developing |
+| Diff Pair Routing | `██████░░░░` Developing |
 
 </td>
 <td width="33%" valign="top">
 
-**High-Speed Design (Study)**
+**High-Speed — Study Frontier**
 
 | Domain | Status |
 |---|---|
-| Transmission Line Theory | ████████░░ Active |
-| Return Path Analysis | ███████░░░ Active |
-| PDN / Decoupling Strategy | ███████░░░ Active |
-| Crosstalk & 3W Rule | ██████░░░░ Active |
-| DDR Interface Routing | █████░░░░░ Study |
-| PCIe / Ethernet Layout | ████░░░░░░ Study |
+| Transmission Line Theory | `████████░░` Active |
+| Return Path Analysis | `███████░░░` Active |
+| PDN / Decoupling Design | `███████░░░` Active |
+| Crosstalk / 3W Rule | `██████░░░░` Active |
+| Length Matching | `██████░░░░` Active |
+| DDR / PCIe / Ethernet | `████░░░░░░` Study |
 
 </td>
 </tr>
@@ -332,191 +337,161 @@ High-Speed:
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                     FLAGSHIP PROJECTS                               -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                    FLAGSHIP PROJECTS                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;`// 04` &nbsp; Flagship Engineering Projects
+## `// 04` &nbsp; Flagship Engineering Projects
 
 <br/>
 
 <details>
-<summary>&nbsp;<b>01 &nbsp;·&nbsp; 7.4 kW EVSE Charger System</b> &nbsp;—&nbsp; <i>Industry · Winet Infratel R&D</i></summary>
+<summary><b>&nbsp; 01 · 7.4 kW EVSE Charger System</b> &nbsp;—&nbsp; <i>Winet Infratel R&D · IEC 61851 / IEC 62196</i></summary>
 
 <br/>
 
-<table>
-<tr><td>
-
 ```
-SYSTEM SPECIFICATION
-────────────────────────────────────────────
-Output Power      :  7.4 kW (single-phase AC)
-Standard          :  IEC 61851 / IEC 62196
-Connector         :  Type-2 (Mennekes)
-Controller        :  ESP32-based control PCB
-Protection        :  GFCI · OVP · OCP · Relay feedback
-Communication     :  Control Pilot (PWM duty-cycle)
+┌─ SYSTEM SPECIFICATION ──────────────────────────────────────────────────────┐
+│  Output Power     :  7.4 kW — Single-phase AC                               │
+│  Standard         :  IEC 61851-1 / IEC 62196 / SAE J1772                    │
+│  Connector        :  Type-2 Mennekes                                         │
+│  Controller       :  ESP32 custom control PCB                                │
+│  Protection       :  GFCI · OVP · OCP · Relay state feedback                │
+│  Interface        :  Control Pilot — PWM duty-cycle modulation               │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-**Challenge:**
-Designing a reliable, standards-compliant EVSE system with precise control pilot waveform generation, robust ground fault detection, and hardware-validated safety state machine.
+**Challenge:** Implementing a hardware-validated, standards-compliant EVSE state machine with precision control pilot waveform generation and fail-safe relay sequencing.
 
-**Design Approach:**
-Isolated control pilot circuit with precision duty-cycle PWM generation per SAE J1772 specifications. MOSFET and relay switching architecture with bidirectional feedback for real-time state verification.
+**Engineering Constraints:** Clearance/creepage isolation requirements. High-voltage domain separation. EMC compliance for AC-connected equipment.
 
-**PCB Considerations:**
-Clearance and creepage distances maintained for high-voltage isolation. Primary and secondary domains separated with optical isolation. Thermal dissipation reviewed for continuous 7.4 kW operation. EMI bypass filtering on AC input stage.
+**Design Decisions:** Isolated control pilot generation using optocoupler and precision timer. MOSFET + relay combination for contact protection. Bidirectional relay feedback for state verification before current enable.
 
-**Validation:**
-Oscilloscope capture of control pilot waveforms across all EV state transitions (A → B → C → D). Load testing under IEC 61851 defined timing requirements.
+**PCB Considerations:** Primary/secondary domain split with optical isolation boundary. Creepage distances maintained per IEC 60950. Thermal dissipation calculated for 7.4 kW continuous. EMI input filtering on AC stage.
 
-</td></tr>
-</table>
+**Validation:** Oscilloscope-verified pilot waveforms across all EV states (A/B/C/D). Timing validated per IEC 61851 state transition requirements. Load testing under rated condition.
+
+**Lessons Learned:** Control pilot impedance matching critical for accurate state detection. Relay bounce suppression firmware essential for reliable sequencing. PCB ground planes must not split across control pilot return path.
 
 </details>
 
 ---
 
 <details>
-<summary>&nbsp;<b>02 &nbsp;·&nbsp; 120W Synchronous Buck Converter</b> &nbsp;—&nbsp; <i>LM5116 · High-Efficiency DC-DC</i></summary>
+<summary><b>&nbsp; 02 · 120W Synchronous Buck Converter</b> &nbsp;—&nbsp; <i>TI LM5116 · High-Efficiency DC-DC</i></summary>
 
 <br/>
 
-<table>
-<tr><td>
-
 ```
-SYSTEM SPECIFICATION
-────────────────────────────────────────────
-Controller IC     :  Texas Instruments LM5116
-Topology          :  Synchronous Buck
-Output Power      :  120W
-Key Engineering   :  Feedback loop compensation · PCB noise minimization
+┌─ SYSTEM SPECIFICATION ──────────────────────────────────────────────────────┐
+│  Controller IC    :  Texas Instruments LM5116                                │
+│  Topology         :  Synchronous Buck                                        │
+│  Output Power     :  120W                                                    │
+│  Key Focus        :  Loop compensation · PCB switching noise minimization    │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-**Challenge:**
-Designing a high-efficiency synchronous buck with stable regulation across full load range, minimizing switching noise coupling into the feedback network.
+**Challenge:** Achieving stable regulation across full load range while minimizing switching noise coupling into the sensitive feedback network.
 
-**Design Approach:**
-Type-III compensation network calculated for adequate phase margin. Kelvin sensing routed directly from output capacitor terminals for regulation accuracy. Bootstrap capacitor and gate drive loop areas minimized.
+**Engineering Constraints:** High dv/dt switching node requiring contained loop area. Type-III compensation network design for adequate phase margin.
 
-**PCB Considerations:**
-High-frequency switching loop kept minimal to reduce parasitic inductance and radiated EMI. Feedback traces routed away from switching node. Separate analog ground island under error amplifier.
+**Design Decisions:** Kelvin sensing at output capacitor terminals for regulation precision. Bootstrap and gate drive loops minimized. Top and bottom FET placed symmetrically around the switching node.
 
-**Validation:**
-Efficiency curve measured via precision power analyzer. Load transient response captured with oscilloscope. Phase and gain margin confirmed under full operating conditions.
+**PCB Considerations:** High-frequency current loop (input cap → top FET → inductor → output cap) area minimized to sub-cm² routing. Feedback network placed in quiet ground zone, away from switching node. Analog ground island under error amplifier.
 
-</td></tr>
-</table>
+**Validation:** Efficiency curve measured across 10%–100% load. Load transient step captured at ±50% load change. Phase and gain margin verified under operating temperature range.
+
+**Lessons Learned:** Kelvin sense routing critically affects regulation accuracy under load. Ground plane integrity under the gate driver is essential for clean switching transitions.
 
 </details>
 
 ---
 
 <details>
-<summary>&nbsp;<b>03 &nbsp;·&nbsp; 60W Isolated Flyback SMPS</b></summary>
+<summary><b>&nbsp; 03 · 60W Isolated Flyback SMPS</b></summary>
 
 <br/>
 
-<table>
-<tr><td>
-
 ```
-SYSTEM SPECIFICATION
-────────────────────────────────────────────
-Topology          :  Flyback (transformer-isolated)
-Output Power      :  60W
-Feedback          :  Optocoupler + TL431 error amplifier
-Isolation         :  Primary / secondary galvanic separation
+┌─ SYSTEM SPECIFICATION ──────────────────────────────────────────────────────┐
+│  Topology         :  Flyback — transformer-isolated                          │
+│  Output Power     :  60W                                                     │
+│  Feedback         :  Optocoupler + TL431 error amplifier                    │
+│  Isolation        :  Primary / secondary galvanic separation                 │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-**Challenge:**
-Achieving tight output regulation across line and load variation while managing transformer leakage energy and switching-node voltage spikes.
+**Challenge:** Achieving tight output regulation across full line and load variation while suppressing transformer leakage spike energy.
 
-**Design Approach:**
-RC-D snubber network designed to clamp leakage inductance spikes within MOSFET VDS rating. Optocoupler feedback loop compensation tuned for stable crossover frequency.
+**Engineering Constraints:** Galvanic isolation requirement. Leakage inductance spike clamping. Feedback loop stability across optocoupler CTR variation.
 
-**PCB Considerations:**
-Primary and secondary grounds separated with single-point connection at input filter capacitor. Creepage distance maintained across isolation boundary per IEC 60950. Snubber placed physically adjacent to transformer primary pin to minimize ringing loop area.
+**Design Decisions:** RC-D snubber network dimensioned to clamp leakage spike within MOSFET VDS rating with margin. Optocoupler feedback compensation designed for stable crossover frequency with adequate phase margin.
 
-**Validation:**
-Output voltage regulation measured under 10%–100% load sweep. Switching node captured to verify snubber effectiveness. No oscillation under line step and load step conditions.
+**PCB Considerations:** Primary/secondary grounds separated — single-point connection at input filter. Creepage distances maintained per IEC 60950. Snubber placed immediately adjacent to transformer primary terminal. No signal traces cross isolation boundary without optical or capacitive coupling.
 
-</td></tr>
-</table>
+**Validation:** Regulation accuracy tested across 90–265V AC input and 10%–100% load. Switching node captured to confirm snubber effectiveness. No oscillation under line and load step events.
+
+**Lessons Learned:** Physical snubber placement proximity to transformer directly impacts leakage spike amplitude. Optocoupler pole must be included in compensation model.
 
 </details>
 
 ---
 
 <details>
-<summary>&nbsp;<b>04 &nbsp;·&nbsp; 2S Lithium Battery Management System</b></summary>
+<summary><b>&nbsp; 04 · 2S Lithium Battery Management System</b></summary>
 
 <br/>
 
-<table>
-<tr><td>
-
 ```
-SYSTEM SPECIFICATION
-────────────────────────────────────────────
-Configuration     :  2S Lithium cell pack
-Protections       :  OVP · UVP · OCP (per cell and pack level)
-Switching         :  Back-to-back N-MOSFET (charge + discharge paths)
-Current Sensing   :  Shunt resistor with comparator
+┌─ SYSTEM SPECIFICATION ──────────────────────────────────────────────────────┐
+│  Configuration    :  2S Lithium cell pack                                    │
+│  Protections      :  OVP · UVP · OCP — per cell and pack                    │
+│  Switching        :  Back-to-back N-MOSFET (bidirectional)                  │
+│  Sensing          :  Dedicated shunt resistor + fast comparator             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-**Challenge:**
-Implementing reliable per-cell protection with independent charge and discharge FET control and accurate overcurrent cutoff.
+**Challenge:** Implementing reliable bidirectional protection with independent charge/discharge FET control and sub-millisecond OCP response.
 
-**Design Approach:**
-Back-to-back N-MOSFET configuration for bidirectional current control. Dedicated shunt resistor for overcurrent detection with fast comparator response. Cell voltage divider networks with hysteresis for clean threshold switching.
+**Engineering Constraints:** Back-to-back MOSFET body diode management. Shunt resistor measurement accuracy under high current. Cell voltage sensing accuracy without common-mode error.
 
-**PCB Considerations:**
-Current-carrying traces sized for peak discharge current with thermal margin. Low-resistance connection between shunt and sensing circuit to minimize measurement error.
+**Design Decisions:** Back-to-back N-MOSFET for bidirectional path control. Dedicated sensing resistor with Kelvin connection to minimize resistance error. Hysteresis added to voltage threshold comparators for clean switching without chatter.
 
-**Validation:**
-OVP trigger verified by applying controlled overvoltage and measuring FET cutoff response time. OCP tested with electronic load. Full charge-discharge cycle validated for protection re-enable behavior.
+**PCB Considerations:** Current path traces sized for peak discharge with derating. Shunt resistor Kelvin connections routed independently of current-carrying traces. MOSFET thermal pad attached to copper pour with thermal vias.
 
-</td></tr>
-</table>
+**Validation:** OVP and UVP trigger thresholds verified with precision bench supply. OCP cutoff timing validated with electronic load current step. Re-enable behavior confirmed across multiple charge-discharge cycles.
+
+**Lessons Learned:** Shunt Kelvin routing is critical — any shared impedance with the current path introduces offset error. Body diode reverse recovery in back-to-back configuration must be evaluated under transient conditions.
 
 </details>
 
 ---
 
 <details>
-<summary>&nbsp;<b>05 &nbsp;·&nbsp; ESP32 HRV Monitoring System</b> &nbsp;—&nbsp; <i>Biometric Embedded Hardware</i></summary>
+<summary><b>&nbsp; 05 · ESP32 HRV Monitoring System</b> &nbsp;—&nbsp; <i>Biometric Embedded Hardware</i></summary>
 
 <br/>
 
-<table>
-<tr><td>
-
 ```
-SYSTEM SPECIFICATION
-────────────────────────────────────────────
-MCU               :  ESP32 (Xtensa dual-core)
-Sensor            :  MAX30102 — PPG / SpO2 / HRV
-Interface         :  I2C (400 kHz Fast Mode)
-Output            :  Real-time biometric data acquisition
+┌─ SYSTEM SPECIFICATION ──────────────────────────────────────────────────────┐
+│  MCU              :  ESP32 — Xtensa dual-core 240 MHz                       │
+│  Sensor           :  MAX30102 — PPG / SpO2 / HRV                            │
+│  Interface        :  I2C 400 kHz Fast Mode                                   │
+│  Output           :  Real-time biometric acquisition over Wi-Fi              │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-**Challenge:**
-Designing a noise-sensitive analog biometric acquisition system on the same board as a high-frequency switching Wi-Fi/BT module without compromising signal quality.
+**Challenge:** Placing a noise-sensitive analog PPG sensor on the same board as a high-frequency Wi-Fi/BT radio (ESP32) without degrading signal quality.
 
-**Design Approach:**
-Analog and digital ground domains separated with single-point star connection. Decoupling capacitors placed at MAX30102 VCC pins. I2C pull-up resistor values optimized for 400 kHz signal integrity.
+**Engineering Constraints:** MAX30102 sensitive to supply noise and ground bounce. ESP32 RF switching generates broadband interference. I2C signal integrity at 400 kHz requires controlled rise/fall times.
 
-**PCB Considerations:**
-MAX30102 placed away from ESP32 RF switching domain. AGND pour under sensor isolated from DGND. SDA/SCL traces kept short and away from RF antenna keep-out zone.
+**Design Decisions:** Analog and digital ground domains separated with single star-point connection. Individual decoupling at MAX30102 VCC and LED drive pins. I2C pull-up values optimized for 400 kHz rise time per NXP I2C specification. Interrupt-driven acquisition for precise timing.
 
-**Validation:**
-I2C signal integrity verified — rise and fall times within spec at 400 kHz. HRV data cross-referenced against reference device for accuracy.
+**PCB Considerations:** MAX30102 placed maximally distant from ESP32 RF domain and antenna keep-out zone. AGND copper pour under sensor isolated from DGND by moat. SDA/SCL traces kept under 30mm and away from RF area.
 
-</td></tr>
-</table>
+**Validation:** I2C waveform captured — rise and fall times confirmed within spec at 400 kHz. HRV data cross-validated against clinical reference device. Power consumption profiled in deep sleep, acquisition, and transmission modes.
+
+**Lessons Learned:** AGND/DGND separation is non-negotiable on mixed-signal boards with integrated RF. Antenna keep-out enforcement prevents I2C clock corruption during Wi-Fi transmit bursts.
 
 </details>
 
@@ -528,82 +503,47 @@ I2C signal integrity verified — rise and fall times within spec at 400 kHz. HR
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                   SI / PI LEARNING ROADMAP                          -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  SI / PI STUDY ARCHITECTURE                          -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;`// 05` &nbsp; Signal & Power Integrity — Study Architecture
-
-<br/>
-
-<div align="center">
-
-```
-                     SIGNAL INTEGRITY FRAMEWORK
-═══════════════════════════════════════════════════════════════════════════
-
-  LAYER 1 — FOUNDATIONS              LAYER 2 — ROUTING              LAYER 3 — SYSTEMS
-  ─────────────────────              ──────────────────             ─────────────────
-
-  Transmission Line Theory      Differential Pair Routing        DDR Interface Design
-  ├─ Characteristic impedance   ├─ Edge vs broadside couple       ├─ Fly-by topology
-  ├─ Propagation delay          ├─ Length matching rules          ├─ Write leveling
-  ├─ Reflection & VSWR          ├─ Common-mode filtering          ├─ DQ / DQS grouping
-  └─ Termination strategies     └─ Skew control                   └─ Eye diagram analysis
-
-  Return Path Analysis          Crosstalk Control                PCIe / Ethernet
-  ├─ Ground plane continuity    ├─ 3W spacing rule                ├─ SERDES link budget
-  ├─ Split plane voids          ├─ Guard traces                   ├─ Pre-emphasis / EQ
-  ├─ Via return paths           ├─ Layer assignment strategy      ├─ Lane equalization
-  └─ Stitching capacitors       └─ Aggressor / victim analysis    └─ Reference plane rules
-
-                     POWER INTEGRITY FRAMEWORK
-═══════════════════════════════════════════════════════════════════════════
-
-  PDN Design                    Decoupling Strategy              Simulation
-  ├─ Target impedance (Ztarget) ├─ Bulk + ceramic hierarchy       ├─ LTspice PDN models
-  ├─ VRM placement & bandwidth  ├─ Resonance management           ├─ Impedance vs frequency
-  ├─ Plane capacitance          ├─ Placement proximity rules      ├─ MATLAB Bode analysis
-  └─ SSN / simultaneous switch  └─ Via inductance estimation      └─ Future: HyperLynx SI
-
-═══════════════════════════════════════════════════════════════════════════
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                    ENGINEERING PHILOSOPHY                           -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-## &nbsp;`// 06` &nbsp; Engineering Philosophy
+## `// 05` &nbsp; Signal & Power Integrity — Study Architecture
 
 <br/>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║     "Physics never negotiates.                                               ║
-║      Reliable hardware begins with disciplined engineering."                 ║
-║                                                                              ║
-║  ──────────────────────────────────────────────────────────────────────────  ║
-║                                                                              ║
-║   Every uncontrolled impedance is a reflection waiting to happen.           ║
-║   Every broken return path is interference already in the system.           ║
-║   Every underdamped PDN is a timing failure under load.                     ║
-║                                                                              ║
-║   Hardware fails silently — design before it does.                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                        SIGNAL INTEGRITY FRAMEWORK                            ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   FOUNDATIONS                ROUTING TECHNIQUES          SYSTEM INTERFACES   ║
+║   ──────────────             ────────────────────        ─────────────────   ║
+║                                                                               ║
+║   Transmission Lines         Differential Pairs          DDR Memory           ║
+║   ├─ Z0 definition           ├─ Edge coupled             ├─ Fly-by topology   ║
+║   ├─ Propagation delay       ├─ Length matching          ├─ Write leveling    ║
+║   ├─ Reflection coefficient  ├─ Common-mode rejection    ├─ DQ/DQS groups    ║
+║   └─ Termination strategies  └─ Skew control             └─ Eye margin        ║
+║                                                                               ║
+║   Return Path Analysis       Crosstalk Control           PCIe / Ethernet      ║
+║   ├─ Ground plane continuity ├─ 3W rule enforcement      ├─ SERDES budget     ║
+║   ├─ Split plane effects     ├─ Guard trace usage        ├─ Pre-emphasis      ║
+║   ├─ Via return paths        ├─ Layer assignment         ├─ Lane equalization ║
+║   └─ Stitching capacitors    └─ Aggressor analysis       └─ Ref plane rules   ║
+║                                                                               ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                        POWER INTEGRITY FRAMEWORK                             ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   PDN Architecture           Decoupling Hierarchy        Simulation Chain     ║
+║   ├─ Target impedance Zt     ├─ Bulk electrolytic        ├─ LTspice PDN       ║
+║   ├─ VRM placement/BW        ├─ Mid-frequency ceramic    ├─ Z vs frequency    ║
+║   ├─ Plane capacitance       ├─ High-freq 0402/0201      ├─ MATLAB Bode       ║
+║   └─ SSN / delta-I noise     └─ Placement proximity      └─ HyperLynx (next)  ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -616,43 +556,31 @@ I2C signal integrity verified — rise and fall times within spec at 400 kHz. HR
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                      GITHUB STATISTICS                              -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  ENGINEERING TIMELINE                                -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;`// 07` &nbsp; GitHub Statistics
-
-<br/>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh-hw-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true&custom_title=Contribution+Overview"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-hw-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&custom_title=Primary+Languages"/>
-
-</div>
+## `// 06` &nbsp; Engineering Timeline
 
 <br/>
 
 <div align="center">
 
-<img width="68%" src="https://streak-stats.demolab.com/?user=harsh-hw-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=21262d&currStreakNum=f0f6fc&sideNums=f0f6fc"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-hw-dev&bg_color=0d1117&color=58a6ff&line=1a3a5c&point=58a6ff&area=true&area_color=0d2137&hide_border=true&custom_title=Contribution+Activity"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harsh-hw-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B"/>
+```
+  B.Tech — Electronics         PCB Design              Power Electronics
+  & Communication Engg         Multi-layer Layout      SMPS / Buck / Flyback
+  ──────────────               ─────────────           ─────────────────────
+        │                            │                          │
+        ▼                            ▼                          ▼
+  ──────●────────────────────────────●──────────────────────────●────────────▶
+        │                            │                          │
+        │        Embedded            │      EVSE Systems        │  SI / PI
+        │        Systems             │      IEC 61851           │  High-Speed
+        │        ESP32 / CAN         │      7.4 kW              │  DDR · PCIe
+        │        ───────────         │      ────────────        │  ──────────
+        ▼                            ▼                          ▼
+  Foundation                  Production                  Frontier  ──────▶
+```
 
 </div>
 
@@ -664,17 +592,34 @@ I2C signal integrity verified — rise and fall times within spec at 400 kHz. HR
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                    CONTRIBUTION SNAKE                               -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  ENGINEERING PHILOSOPHY                              -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;`// 08` &nbsp; Contribution Map
+## `// 07` &nbsp; Engineering Philosophy
 
 <br/>
 
 <div align="center">
 
-<img width="90%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   "Physics never negotiates.                                                  ║
+║    Reliable hardware emerges from disciplined engineering."                   ║
+║                                                                               ║
+║   ─────────────────────────────────────────────────────────────────────────  ║
+║                                                                               ║
+║   Every uncontrolled impedance discontinuity is a reflection event.          ║
+║   Every interrupted return path is noise already inside the system.          ║
+║   Every underdamped PDN is a timing failure waiting for the right load.      ║
+║   Every thermal assumption not validated is a field return.                  ║
+║                                                                               ║
+║   Hardware does not fail randomly. It fails predictably.                     ║
+║   Know the physics. Control the failure modes.                               ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -686,11 +631,89 @@ I2C signal integrity verified — rise and fall times within spec at 400 kHz. HR
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                       CONNECT SECTION                               -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATISTICS — ALL FIXED                       -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;`// 09` &nbsp; Connect
+## `// 08` &nbsp; GitHub Statistics
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/harsh-hw-dev">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=harsh-hw-dev&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=03060d&title_color=00d4ff&icon_color=00d4ff&text_color=4a7fa5&ring_color=00d4ff&custom_title=Contribution+Overview" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/harsh-hw-dev">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-hw-dev&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=03060d&title_color=00d4ff&text_color=4a7fa5&custom_title=Primary+Languages" alt="Top Languages"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/harsh-hw-dev">
+  <img width="68%" src="https://streak-stats.demolab.com/?user=harsh-hw-dev&theme=dark&hide_border=true&background=03060d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=4a7fa5&dates=4a7fa5&stroke=0d1f33&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/harsh-hw-dev">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-hw-dev&bg_color=03060d&color=00d4ff&line=0a3d55&point=00d4ff&area=true&area_color=051520&hide_border=true&custom_title=Contribution+Activity+Graph" alt="Contribution Graph"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harsh-hw-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE                                  -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 09` &nbsp; Contribution Map
+
+<br/>
+
+<div align="center">
+
+<img width="92%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT                                         -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 10` &nbsp; Connect
 
 <br/>
 
@@ -700,22 +723,19 @@ I2C signal integrity verified — rise and fall times within spec at 400 kHz. HR
 <tr>
 <td align="center" width="33%">
 
-**`EMAIL`**
-
+**`EMAIL`**<br/>
 [saini.harsh.in@gmail.com](mailto:saini.harsh.in@gmail.com)
 
 </td>
 <td align="center" width="33%">
 
-**`LINKEDIN`**
-
+**`LINKEDIN`**<br/>
 [linkedin.com/in/sainiharsh-in](https://www.linkedin.com/in/sainiharsh-in/)
 
 </td>
 <td align="center" width="33%">
 
-**`GITHUB`**
-
+**`GITHUB`**<br/>
 [github.com/harsh-hw-dev](https://github.com/harsh-hw-dev)
 
 </td>
@@ -727,15 +747,16 @@ I2C signal integrity verified — rise and fall times within spec at 400 kHz. HR
 ```
 Open to opportunities in:
 Hardware Design  ·  Signal Integrity  ·  Power Integrity
-PCB Engineering  ·  EMI / EMC  ·  High-Speed Digital Design
+PCB Engineering  ·  EMI / EMC  ·  High-Speed Digital Systems
+Semiconductor Hardware  ·  Platform Engineering
 ```
 
 </div>
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                       FOOTER BANNER                                 -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                      FOOTER BANNER                                   -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060a10,40:0a192f,100:060a10&height=130&section=footer&text=Building%20hardware%20from%20power%20stages%20to%20high-speed%20digital%20systems.&fontSize=14&fontColor=6e7f9a&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03060d,40:060e1a,70:0a1628,100:03060d&height=140&section=footer&text=Building%20hardware%20from%20power%20conversion%20to%20high-speed%20digital%20systems.&fontSize=14&fontColor=4a7fa5&fontAlignY=52&animation=fadeIn"/>
