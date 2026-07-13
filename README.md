@@ -1,6 +1,4 @@
-<div align="center">
-
-# Harsh Saini / README.md
+<h1 align="center">Harsh Saini / README.md</h1>
 
 <pre>
 ******###########**************#****  harsh-hw-dev ─────────────
@@ -30,6 +28,8 @@
 ===---- .................. -. ......  . Stats: .......... see cards below
 -------           ......... ........  
 </pre>
+
+<div align="center">
 
 <br/>
 
