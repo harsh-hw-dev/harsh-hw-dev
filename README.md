@@ -1,6 +1,6 @@
 ### Harsh Saini — Hardware Design Engineer
 
-Power Electronics · PCB Engineering · Embedded Systems · Signal & Power Integrity (learning)
+ Signal & Power Integrity · PCB Engineering · Embedded Systems
 
 🔧 Currently: Hardware Design Engineer at Vicharak, building edge AI systems and AI accelerator hardware.
 
